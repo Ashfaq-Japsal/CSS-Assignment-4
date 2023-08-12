@@ -1,0 +1,71 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: rgb(50, 122, 255);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+div p {
+font-size: x-large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#text {
+margin: 10% 10%;
+float: left;
+width: 500px;
+/* border: 1px solid red; */
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#form {
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 350px;
+    margin: 8% 60%;
+    background-color: white;
+    text-align: center;
+    box-shadow: 2px 2px 10px rgb(180, 180, 180);
+}
+
+input {
+    height: 40px;
+    width: 310px;
+    margin-top: 20px;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+hr {
+    width: 310px;
+}
+
+#button1 {
+    height: 40px;
+    width: 310px;
+    background-color: rgb(50, 122, 255);
+    color: white;
+    font-size: large;
+    cursor: pointer;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
+
+#button2 {
+    height: 40px;
+    width: 170px;
+    background-color: rgb(8, 196, 8);
+    color: white;
+    font-size: medium;
+    cursor: pointer;
+    border: 1px solid rgb(207, 207, 207);
+    border-radius: 5px;
+}
